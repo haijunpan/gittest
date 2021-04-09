@@ -1,3 +1,6 @@
 harry test
+<<<<<<< HEAD
 harry edit
 harry edit 1
+=======
+>>>>>>> parent of fdddb76 (add b.txt and update a.txt)
