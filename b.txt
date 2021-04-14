@@ -1,1 +1,2 @@
 harry create b text
+harry edit 1
